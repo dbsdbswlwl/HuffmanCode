@@ -1,1 +1,1 @@
-huffmancode
+# 호프만 코드입니다
